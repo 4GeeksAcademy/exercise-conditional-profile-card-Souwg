@@ -133,10 +133,10 @@ Este es un ejemplo de una posible salida HTML, vas a tener que remplazar el nomb
   <h2>Web Developer</h2>
   <h3>Miami, USA</h3>
   <ul class="position-right">
-    <li><a href="https://twitter.com/alesanchezr"><i class="fa fa-twitter"></i></a></li>
-    <li><a href="https://github.com/alesanchezr"><i class="fa fa-github"></i></a></li>
-    <li><a href="https://linkedin.com/alesanchezr"><i class="fa fa-linkedin"></i></a></li>
-    <li><a href="https://instagram.com/alesanchezr"><i class="fa fa-instagram"></i></a></li>
+    <li><a href="https://twitter.com/alesanchezr"><i class="fa fa-twitter"></i></a>Twitter</li>
+    <li><a href="https://github.com/alesanchezr"><i class="fa fa-github"></i></a>github</li>
+    <li><a href="https://linkedin.com/alesanchezr"><i class="fa fa-linkedin"></i></a>linkein</li>
+    <li><a href="https://instagram.com/alesanchezr"><i class="fa fa-instagram"></i></a>instagram</li>
   </ul>
 </div>
 ```
